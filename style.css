@@ -26,7 +26,6 @@ body {
 
 .woocommerce .products ul, .woocommerce ul.products {
   margin: 0 0 1em !important;
-  padding: 10px !important;
-
+  padding: 50px !important;
   clear: both !important;
 }
