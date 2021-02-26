@@ -20,12 +20,12 @@
 }
 
 body {
-  font-family: Montserrat;
+  font-family: montserrat;
   font-size: 20px;
 }
 
 .woocommerce .products ul, .woocommerce ul.products {
-  margin: 0 0 1em;
+  margin: 1 0 1em;
   padding: 100px;
   list-style: none outside;
   clear: both;
