@@ -25,14 +25,10 @@ body {
 }
 
 .woocommerce .products ul, .woocommerce ul.products {
-  display: flex;
-  margin: 0 0 1em;
-  padding: 100px;
-  list-style: none outside;
-  clear: both;
-  justify-content: space-between;
-}
-
-.ul{
-  padding: 100px;
+  display: flex !important;
+  margin: 0 0 1em !important;
+  padding: 100px !important;
+  list-style: none outside !important;
+  clear: both !important;
+  justify-content: space-between !important;
 }
