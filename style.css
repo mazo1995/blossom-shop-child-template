@@ -19,6 +19,14 @@
   background-color: #F2EFEB;
 }
 
-.site-main{
+body {
+  font-family: Montserrat;
+  font-size: 20px;
+}
+
+.woocommerce ul.products {
+  margin: 0 0 1em;
   padding: 100px;
+  list-style: none outside;
+  clear: both;
 }
