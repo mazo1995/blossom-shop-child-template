@@ -19,6 +19,11 @@
   background-color: #F2EFEB;
 }
 
+.textbox2-kontaktos {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 .textbox2-kontaktos h2{
   text-align: center;
 }
