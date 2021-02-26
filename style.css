@@ -27,8 +27,8 @@ body {
 .woocommerce .products ul, .woocommerce ul.products {
   display: flex !important;
   margin: 0 0 1em !important;
+  padding: 10px !important;
 
-  list-style: none outside !important;
   clear: both !important;
   justify-content: space-between !important;
 }
