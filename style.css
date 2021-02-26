@@ -24,9 +24,9 @@ body {
   font-size: 20px;
 }
 
-
 .woocommerce .products ul, .woocommerce ul.products {
   margin: 0 0 1em !important;
   padding: 100px !important;
+  list-style: none outside !important;
   clear: both !important;
 }
