@@ -25,7 +25,8 @@ body {
 }
 
 .site-main{
-  margin-left: 200px !important;
+  margin-left: 150px !important;
+  margin-top: 100px !important;
 }
 
 .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
