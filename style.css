@@ -50,4 +50,7 @@ margin-right: 150px !important;
     .woocommerce-ordering{
       margin-right: 0px !important;
       }
+      .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
+        padding-right: -20px;
+      }
   }
