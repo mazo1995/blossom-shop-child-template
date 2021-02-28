@@ -40,3 +40,11 @@ body {
 .woocommerce-ordering{
 margin-right: 150px !important;
 }
+
+@media only screen and (max-width: 300px) {
+    .site-main{
+      margin-left: 13px !important;
+      margin-top: 10px !important;
+    }
+  }
+}
