@@ -51,6 +51,6 @@ margin-right: 150px !important;
       margin-right: 0px !important;
       }
       .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
-        padding-left: 200px;
+        padding-left: -20px !important;
       }
   }
