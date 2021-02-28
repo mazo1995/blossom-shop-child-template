@@ -28,6 +28,6 @@ body {
   margin:80px !important;
 }
 
-.button product_type_simple add_to_cart_button ajax_add_to_cart{
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
   color: #c5ab9a;
 }
