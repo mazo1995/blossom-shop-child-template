@@ -43,7 +43,7 @@ margin-right: 150px !important;
 
 @media screen and (max-width: 900px) {
     .site-main{
-      margin-left: 0px !important;
+      margin-left: 10px !important;
       margin-top: 0px !important;
     }
     .woocommerce-ordering{
