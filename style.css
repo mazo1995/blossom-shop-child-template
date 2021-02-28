@@ -31,3 +31,7 @@ body {
 .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
   background-color: #BB8677;
 }
+
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart :hover{
+  background-color: #9e7165;
+}
