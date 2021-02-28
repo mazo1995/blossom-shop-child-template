@@ -35,3 +35,7 @@ body {
 .button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover{
   background-color: #815c52;
 }
+
+.woocommerce-ordering{
+margin-left: 100px;
+}
