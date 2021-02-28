@@ -36,6 +36,6 @@ body {
   background-color: #815c52;
 }
 
-.orderby{
-padding-right: 100px;
+.woocommerce-ordering{
+margin-right: 100px !important;
 }
