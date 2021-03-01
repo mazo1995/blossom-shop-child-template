@@ -19,9 +19,13 @@
 }
 
 .header-t{
-  background-color: #F2EFEB;
+  background-color: #c5ab9a;
 }
 
+cart
+.page-header {
+  background: #c5ab9a;
+=======
 .header-main .header-search .search-toggle {
 
   padding: 0;
