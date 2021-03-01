@@ -15,7 +15,7 @@
   padding: 0;
   display: flex;
   flex: 1;
-  flex-wrap: wrap; }
+  flex-wrap: wrap; 
 }
 
 .header-t{
@@ -23,6 +23,7 @@
 }
 
 .header-main .header-search .search-toggle {
+
   padding: 0;
   background: none;
   font-size: 0.6em;
@@ -56,6 +57,7 @@
     flex: 1;
     flex-wrap: wrap; }
     .main-navigation ul li {
+      justify-content: center;
       display: inline-block;
       position: relative;
       font-size: 0.7em;
@@ -86,6 +88,38 @@
             left: 3px; }
       .main-navigation ul li:hover > a, .main-navigation ul li.current-menu-item > a, .main-navigation ul li.current_page_item > a, .main-navigation ul li.current-menu-ancestor > a, .main-navigation ul li.current_page_ancestor > a {
         color: #bb8677; }
+
+        .header-three .header-main .site-branding {
+          padding: 20px 0;
+          flex-direction: row;
+          align-items: center;
+          text-align: left;
+          width: auto;
+          padding-right: 20px;
+          border-right: transparent;
+      }
+     
+
+      .header-three .header-main .main-navigation + .right {
+        border-left: transparent;
+        margin-left: 40px;
+        width: 23%;
+    }
+
+    .header-main .main-navigation, .header-main .site-branding, .header-main .right {
+      display: flex;
+      flex: initial;
+      flex-wrap: wrap;
+
+      width: 35%;
+  }
+
+
+
+
+
+
+
 
 /*Om os siden/ kontakt os siden*/
 .textbox2-kontaktos {
