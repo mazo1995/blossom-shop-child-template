@@ -229,6 +229,45 @@ display: none;
   padding-right: 50px;
 }
 
+/*produkter*/
+body {
+  font-family: montserrat;
+  font-size: 20px;
+}
+
+/*Produkter*/
+.site-main{
+  margin-left: 130px !important;
+  margin-top: 100px !important;
+}
+/*Knapper*/
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
+  background-color: #BB8677;
+}
+
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover{
+  background-color: #815c52;
+}
+
+.woocommerce-ordering{
+margin-right: 150px !important;
+}
+
+@media screen and (max-width: 900px) {
+    .site-main{
+      margin-left: 40px !important;
+      margin-right: 30px !important;
+      margin-top: 0px !important;
+    }
+    .woocommerce-ordering{
+      margin-right: 0px !important;
+      }
+      .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
+        margin-right: 20px !important;
+      }
+  }
+=======
 .textbox2-kontaktos h3{
   font-size: 20px;
 }
+master
