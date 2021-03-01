@@ -19,10 +19,11 @@
   background-color: #F2EFEB;
 }
 
-.textbox1-omos {
-  background-color: #bb8677da;
+.textbox2-kontaktos {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-.textbox1-omos h1{
-  text-align: center;
+.textbox2-kontaktos h3{
+  font-size: 20px;
 }
