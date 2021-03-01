@@ -24,11 +24,12 @@ body {
   font-size: 20px;
 }
 
+/*Produkter*/
 .site-main{
   margin-left: 130px !important;
   margin-top: 100px !important;
 }
-
+/*Knapper*/
 .button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
   background-color: #BB8677;
 }
