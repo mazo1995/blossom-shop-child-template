@@ -47,7 +47,14 @@
 .header-main .right .cart-block .bsp-cart-block-wrap:hover .cart-amount {
   color: #bb8677; }
 
-
+  .main-navigation ul li {
+    display: inline-block;
+    position: relative;
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:#F2EFEB;
+}
 
 
 
