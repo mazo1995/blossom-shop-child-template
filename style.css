@@ -19,6 +19,39 @@
   background-color: #F2EFEB;
 }
 
+.header-main .header-search .search-toggle {
+  padding: 0;
+  background: none;
+  font-size: 0.6em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  cursor: pointer;
+  color:#F2EFEB;
+  vertical-align: middle;
+}
+.header-main .header-search .search-toggle:hover {
+  color: #bb8677; }
+.header-main .header-search .search-toggle:hover svg {
+  fill: #bb8677; }
+
+  .header-main .right .cart-block .cart-amount {
+    font-size: 0.6em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #F2EFEB;
+}
+.header-main .right .cart-block .bsp-cart-block-wrap:hover a svg {
+  fill: #bb8677; }
+.header-main .right .cart-block .bsp-cart-block-wrap:hover .cart-amount {
+  color: #bb8677; }
+
+
+
+
+
+
 /*Om os siden/ kontakt os siden*/
 .textbox2-kontaktos {
   padding-left: 50px;
