@@ -47,14 +47,14 @@
 .header-main .right .cart-block .bsp-cart-block-wrap:hover .cart-amount {
   color: #bb8677; }
 
-  .main-navigation ul li {
-      color: #F2EFEB;
-      font-family: "Nunito Sans", sans-serif;
-      font-size: 20px;
-      line-height: 1.65;
-      font-weight: 400;
-  
-}
+  body[class*="mega-menu-"] .header-main .site-branding {
+    color: #F2EFEB;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+    line-height: 1.65;
+    font-weight: 400;
+    width: auto; }
+
 
 
 
