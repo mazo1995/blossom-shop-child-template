@@ -46,20 +46,43 @@
   fill: #bb8677; }
 .header-main .right .cart-block .bsp-cart-block-wrap:hover .cart-amount {
   color: #bb8677; }
-
-  body[class*="mega-menu-"] .header-main .site-branding {
-    color: #F2EFEB;
-    font-family: "Nunito Sans", sans-serif;
-    font-size: 20px;
-    line-height: 1.65;
-    font-weight: 400;
-    width: auto; }
-
-.menu-item-133{
-  color: #F2EFEB;
-}
-
-
+  .main-navigation ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap; }
+    .main-navigation ul li {
+      display: inline-block;
+      position: relative;
+      font-size: 0.7em;
+      font-weight: 700;
+      letter-spacing: 1px; }
+      .main-navigation ul li a {
+        display: inline-block;
+        color: #F2EFEB;
+        padding: 30px 20px;
+        position: relative; }
+        .main-navigation ul li a .menu-description {
+          position: absolute;
+          top: 10px;
+          right: -10px;
+          background: #EE7F4B;
+          color: #ffffff;
+          line-height: 1.3;
+          font-size: 8px;
+          font-weight: 700;
+          padding: 3px 5px;
+          z-index: 9; }
+          .main-navigation ul li a .menu-description::after {
+            content: "";
+            border-top: 5px solid #EE7F4B;
+            border-right: 6px solid transparent;
+            position: absolute;
+            bottom: -5px;
+            left: 3px; }
+      .main-navigation ul li:hover > a, .main-navigation ul li.current-menu-item > a, .main-navigation ul li.current_page_item > a, .main-navigation ul li.current-menu-ancestor > a, .main-navigation ul li.current_page_ancestor > a {
+        color: #bb8677; }
 
 /*Om os siden/ kontakt os siden*/
 .textbox2-kontaktos {
